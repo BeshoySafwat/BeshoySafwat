@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Safwat's+profile!+" alt="Typing SVG" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
