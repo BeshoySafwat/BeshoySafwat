@@ -2,8 +2,9 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Dergham's+profile!+" alt="Typing SVG" /></a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Dergham's+profile!+" alt="Typing SVG" />
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
+  
 </h3>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7310C&width=435&lines=.NET+Developer+;Always+Learning+New+Things"
