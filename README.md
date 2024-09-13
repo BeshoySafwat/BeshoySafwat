@@ -1,10 +1,8 @@
-## Hi there 👋
+<h1 align="Center"> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Safwat's+profile!+" alt="Typing SVG" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Safwat's+profile!+" alt="Typing SVG" /></a>
 </h3>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7310C&width=435&lines=.NET+Developer+;Always+Learning+New+Things"
