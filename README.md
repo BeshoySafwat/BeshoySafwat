@@ -21,6 +21,6 @@
 
 <a href="https://www.linkedin.com/in/beshoy-safwat-18146a246/" target="_blank" height=" 35px"><img src="https://img.shields.io/badge/-Beshoy%20Safwat-1a293a?style=for-the-badge&logo=Linkedin&logoColor=White"/></a>
 <a href="https://t.me/BeshoySafwat1" target="_blank" height=" 35px"><img src="https://img.shields.io/badge/-Beshoy%20Safwat-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https:beshoosafwat0@gmail.com" target="_blank" height=" 35px"><img src="https://img.shields.io/badge/-Beshoy%20Safwat-df412f?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="beshoosafwat0@gmail.com" target="_blank" height=" 35px"><img src="https://img.shields.io/badge/-Beshoy%20Safwat-df412f?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeshoySafwat&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
