@@ -14,6 +14,7 @@
 - 🧠 Tech Discovery.
 - 🌱 I'm interested in learning software development.
 - 🏋‍♀ Continuously expanding my knowledge base.
+- 💬 Ask me about my experience with ASP.NET or anything related to web development.
   
 
 
