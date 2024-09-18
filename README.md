@@ -14,7 +14,7 @@
 
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=500&duration=4000&pause=10000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Safwat's+profile!+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=5500&pause=1500&color=ED3D00&multiline=true&width=800&height=100&lines=Focusing+on+.NET+Development+Track.;Always+Learning+New+Things+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=5500&pause=1500&color=ED3D00&width=750&lines=Focusing+on+.NET+Development+Track.;Always+Learning+New+Things+" alt="Typing SVG" /></a>
 </h3>
 <!--
 **BeshoySafwat/BeshoySafwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
