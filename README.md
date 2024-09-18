@@ -15,6 +15,7 @@
 - 🌱 I'm interested in learning software development.
 - 🏋‍♀ Continuously expanding my knowledge base.
 - 💬 Ask me about my experience with ASP.NET or anything related to web development.
+- ⚡ Fun Fact: I'm a travel enthusiast, and my perfect day would involve exploring new places, starting with a sunrise adventure and ending with a sunset by the ocean.
   
 ### Connect with Me :
 
