@@ -1,3 +1,4 @@
+<img width="250" align="right" src="https://tenor.com/view/hello-world-gif-10535551562429100624">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap" rel="stylesheet">
@@ -13,7 +14,7 @@
 
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=500&duration=4000&pause=10000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Safwat's+profile!+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=5500&pause=1500&color=ED3D00&multiline=true&width=800&height=100&lines=Focusing+on+.NET+Development+Track.;Always+Learning+New+Things+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=5500&pause=1500&color=ED3D00&multiline=true&width=800&height=100&lines=Focusing+on+.NET+Development+Track.;Always+Learning+New+Things+" alt="Typing SVG" /></a>
 </h3>
 <!--
 **BeshoySafwat/BeshoySafwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
