@@ -26,12 +26,12 @@
 ### 🛠 &nbsp;Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![C](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=C&logoColor=1572B6)&nbsp;
-![C++](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=cplusplus&logoColor=1572B6)&nbsp;
-![C#](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=c&logo=sharplus&logoColor=1572B6)&nbsp;
-![SQL](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=mysql&logoColor=1572B6)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=1572B6)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=1572B6)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c&logo=sharplus&logoColor=1572B6)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
-![.NET](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=.Net)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET%20-05122A?style=flat&logo=.Net)&nbsp;
