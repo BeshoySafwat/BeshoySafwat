@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=500&duration=4000&pause=10000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Safwat's+profile!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=6000&pause=3000&color=F7F7F7&width=550&lines=Welcome+to+Beshoy+Safwat's+profile!" alt="Typing SVG" /></a>
 </h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=5500&pause=1500&color=ED3D00&width=750&lines=Focusing+on+.NET+Development.;Always+Learning+New+Things+" alt="Typing SVG" /></a>
 <img width="200" align="right" src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif">
@@ -26,15 +26,16 @@
 ### 🛠 &nbsp;Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![BootStrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=1572B6)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=1572B6)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=1572B6)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=sharp&logoColor=1572B6)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=1572B6)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET%20-05122A?style=flat&logo=.Net)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET%20-05122A?style=flat&logo=.Net)&nbsp;
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeshoySafwat&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
