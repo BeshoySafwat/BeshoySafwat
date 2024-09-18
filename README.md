@@ -10,10 +10,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=5500&pause=1500&color=ED3D00&width=750&lines=Focusing+on+.NET+Development.;Always+Learning+New+Things+" alt="Typing SVG" /></a>
 <img width="200" align="right" src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif">
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills and Tech Discovery.
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🧠 Tech Discovery.
 - 🌱 I'm interested in learning software development.
 - 🏋‍♀ Continuously expanding my knowledge base.
-- 
+  
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeshoySafwat&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
