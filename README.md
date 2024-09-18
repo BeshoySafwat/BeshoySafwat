@@ -19,7 +19,8 @@
   
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/beshoy-safwat-18146a246/" target="_blank"><img src="https://img.shields.io/badge/-Beshoy%20Safwat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/beshoy-safwat-18146a246/" target="_blank"><img src="https://img.shields.io/badge/-Beshoy%20Safwat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=#1a293a"/></a>
+<a href="https://t.me/BeshoySafwat1" target="_blank"><img src="https://img.shields.io/badge/-Beshoy%20Safwat-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://t.me/BeshoySafwat1" target="_blank"><img src="https://img.shields.io/badge/-Beshoy%20Safwat-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeshoySafwat&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
