@@ -13,20 +13,13 @@
 
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=500&duration=4000&pause=10000&color=F7F7F7&width=435&lines=Welcome+to+Beshoy+Safwat's+profile!+" alt="Typing SVG" /></a>
-<p align="Center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=5500&pause=1500&color=F72525&multiline=true&width=900&height=150&lines=Undergraduate+Student+Driven+by+Passion+;For+Problem-Solving+and+Tech+Discovery.;Focusing+on+.NET+Development+Track." alt="Typing SVG" /></a>
-</p>
+
 <!--
 **BeshoySafwat/BeshoySafwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:-->
-<!--
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
--->
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills and Tech Discovery.
+- 🌱 I'm interested in learning software development.
+- 🏋‍♀ Continuously expanding my knowledge base.
+
+
